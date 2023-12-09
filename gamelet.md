@@ -1,14 +1,3 @@
-# Gamelet
+# javascript All-in-one for dummies
 
-a starter program for writing javascript games
-
-## Usage
-
-1.  Include game.js in an HTML document containing an element with an id of 'ball'
-
-```html
-<div id="ball">@</div>
-<script src="gamelet.js" />
-```
-
-2. the script will detect when the left or right arrow keys are pressed and will move the ball element accordingly
+im learning javascript, react, vue, svelte, and node from javsript All-in-one for dummies by Chris Minnick
